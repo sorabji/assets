@@ -1,0 +1,40 @@
+{
+  "name": "Balancer",
+  "timestamp": "2022-09-02T00:00:00.000Z",
+  "logoURI": "https://raw.githubusercontent.com/balancer-labs/pebbles/master/images/pebbles-pad.256w.png",
+  "keywords": [
+    "balancer",
+    "vetted"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 11,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "address": "0xb450242BF214586C66D2E40d9FeF89194E492AC5",
+      "chainId": 1300,
+      "name": "Wrapped Atera Token",
+      "symbol": "WATE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/refactor-for-multichain/assets/0xa68ec98d7ca870cf1dd0b00ebbb7c4bf60a8e74d.png"
+    },
+    {
+      "chainId": 1300,
+      "name": "BAL token 1",
+      "symbol": "BAL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/refactor-for-multichain/assets/0xb96b904ba83ddeece47caada8b40ee6936d92091.png",
+      "address": "0x5dEA55Ed5bcD60CDbdB9fDEB01Cb09338ABC71D7"
+    },
+    {
+      "address": "0x0100919075977b58ae00A92CDBEc9684cb069bf2",
+      "chainId": 1300,
+      "name": "BAL Pool Token",
+      "symbol": "BPT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00006100F7090010005F1bd7aE6122c3C2CF0090/logo.png"
+    }
+  ]
+}
