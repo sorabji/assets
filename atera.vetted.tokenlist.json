@@ -26,10 +26,10 @@
       "symbol": "BAL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/refactor-for-multichain/assets/0xb96b904ba83ddeece47caada8b40ee6936d92091.png",
-      "address": "0x1b47518C3BB68cEb3DFA785fE206c050B4cB51D7"
+      "address": "0x5a3Ff556f24cDAe6B97dEf3a39876a14033c6e33"
     },
     {
-      "address": "0x33e30563217419eeAC34Aa66eAc399f25216EF5d",
+      "address": "0x919CbAED814ffA126786238861cC24EEf44eF1FE",
       "chainId": 1300,
       "name": "BAL Pool Token",
       "symbol": "BPT",
