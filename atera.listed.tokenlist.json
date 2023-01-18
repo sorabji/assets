@@ -37,7 +37,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00006100F7090010005F1bd7aE6122c3C2CF0090/logo.png"
     },
     {
-      "address": "0xad7eE5B6D0D5dD976760C752495BE29381533394",
+      "address": "0xc76b1b55A86F120BDa11b143c6Ca0F7b06425213",
       "chainId": 1300,
       "name": "USD Coin",
       "symbol": "USDC",
@@ -45,7 +45,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
-      "address": "0x6Cf9659F2FB160538Ab794D36D8Ed8cbb7CF143D",
+      "address": "0xE964856823798117a51fCB29ec403ac43959B026",
       "chainId": 1300,
       "name": "Dai Stablecoin",
       "symbol": "DAI",
@@ -53,7 +53,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
-      "address": "0xb1d5A3bB1edD32Cf0C12a80697D642F4bEa3D972",
+      "address": "0x98BAf99998C4FBFEf92e41A3BE12f8D022bc295d",
       "chainId": 1300,
       "name": "Wrapped BTC",
       "symbol": "WBTC",
@@ -61,7 +61,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
     {
-      "address": "0x84d714Ca496278c1C9fee2E9997e5F87038734eE",
+      "address": "0x61D5c2Aab09B09EE993df7CCB86DEc2F88E0aeC5",
       "chainId": 1300,
       "name": "Tether USD",
       "symbol": "USDT",
@@ -69,7 +69,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
-      "address": "0xea3C59640F683d694321163a885E93b2eb4e97De",
+      "address": "0x5a63cbcc2d73504ccC2a872BEcAA664f5551c22d",
       "chainId": 1300,
       "name": "mStable USD",
       "symbol": "mUSD",
@@ -77,7 +77,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5/logo.png"
     },
     {
-      "address": "0x17a86c2753E1622dc6B7919e1b4e4A6a681BFEb9",
+      "address": "0x78Ae6BDAcD6e7d9E9026e0c97C1e6FE05e49Af4d",
       "chainId": 1300,
       "name": "Maker",
       "symbol": "MKR",
@@ -85,7 +85,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
     },
     {
-      "address": "0xCfd8AF5251025B0bd71d2b2164400e44Ad575999",
+      "address": "0x5CE241B204698af44796067906abaf883CF0Aa66",
       "chainId": 1300,
       "name": "Perpetual",
       "symbol": "PERP",
@@ -93,7 +93,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbC396689893D065F41bc2C6EcbeE5e0085233447/logo.png"
     },
     {
-      "address": "0x7c14B900C53cA7616A63cd16C693960E7Ac8bC6E",
+      "address": "0xCdDB0B09d3625E88Dea0Ea1315a5F414D9762DdA",
       "chainId": 1300,
       "name": "yearn.finance",
       "symbol": "YFI",
@@ -101,7 +101,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
     },
     {
-      "address": "0xD6D6735381458ab90682838b8Cb9032Ff16Df25B",
+      "address": "0x963Ce9a86a892EE3E4972e90779F8d20e23e7fe3",
       "chainId": 1300,
       "name": "Wrapped NXM",
       "symbol": "wNXM",
@@ -109,7 +109,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0d438F3b5175Bebc262bF23753C1E53d03432bDE/logo.png"
     },
     {
-      "address": "0xf3709FC01a4A230466f31d514039DE1992814B38",
+      "address": "0x388f15F86c7Fdb6453Cdfff35e104EBfCe311cB4",
       "chainId": 1300,
       "name": "UMA Voting Token v1",
       "symbol": "UMA",
@@ -117,7 +117,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
     },
     {
-      "address": "0xd09f55384C3713e584E8B47185d2cf77BFcD9927",
+      "address": "0x58710B2f6888775938E652345091E44b71508d08",
       "chainId": 1300,
       "name": "ChainLink Token",
       "symbol": "LINK",
@@ -125,7 +125,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
     },
     {
-      "address": "0xa4C65a6C724D6433f8BF199340131bb018Ee935C",
+      "address": "0xC65B5A967E4fFC6e6d5127e00A0e2B62700b37bf",
       "chainId": 1300,
       "name": "renBTC",
       "symbol": "renBTC",
@@ -133,7 +133,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png"
     },
     {
-      "address": "0x398571575087aBAA1c4148fb2F44914237638942",
+      "address": "0x7dd83EF4c2d888854F141b792111A077DFD54cCf",
       "chainId": 1300,
       "name": "bZx Protocol Token",
       "symbol": "BZRX",
@@ -141,7 +141,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x56d811088235F11C8920698a204A5010a788f4b3/logo.png"
     },
     {
-      "address": "0x466B51e5F5726500aE6aeb520286b2622096A7a3",
+      "address": "0xb3560B7a92e1A9bCfa125969eA0413918c6292A4",
       "chainId": 1300,
       "name": "Serum",
       "symbol": "SRM",
@@ -149,7 +149,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
     },
     {
-      "address": "0x801711212A524EEa5fbA0D1092bCCFC9230d47E9",
+      "address": "0x73F89091D427D57653BE30ccF7258541aC44a83a",
       "chainId": 1300,
       "name": "Aave Token",
       "symbol": "AAVE",
@@ -157,7 +157,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
     },
     {
-      "address": "0x6AA258Ddf05A542b4283e2F58691b3e5309256C6",
+      "address": "0xf07AE93a79004f5a76703bCa9a8d864703Ae069A",
       "chainId": 1300,
       "name": "Uniswap",
       "symbol": "UNI",
@@ -165,7 +165,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
     },
     {
-      "address": "0xd9Bb7189A967e89a7c083dd95042f1d50977aFdA",
+      "address": "0x85348812Bf8508C674DE18dA0fA8c31bC54dFA1F",
       "chainId": 1300,
       "name": "PieDAO DOUGH v2",
       "symbol": "DOUGH",
@@ -173,7 +173,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xad32a8e6220741182940c5abf610bde99e737b2d.png"
     },
     {
-      "address": "0xffE95f1E8605623d0723d70F0C441F5519237214",
+      "address": "0x5CC43F833D7db5E0418D7e13fEed9BCD7c9deaCc",
       "chainId": 1300,
       "name": "Compound",
       "symbol": "COMP",
@@ -181,7 +181,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
     },
     {
-      "address": "0x81d4B8c3C14Dc0a740300BD1277A95645d8275bC",
+      "address": "0x7d7408d1A9b752f59966EfF31e9DeD971D891326",
       "chainId": 1300,
       "name": "Rocket Pool Protocol",
       "symbol": "RPL",
@@ -189,7 +189,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xd33526068d116ce69f19a9ee46f0bd304f21a51f.png"
     },
     {
-      "address": "0x580F3AD73d740Eac2E18DEd717DAedaABbDC95bd",
+      "address": "0x8B18161E2464e6882A75BB7a654772248fb75102",
       "chainId": 1300,
       "name": "Pinakion",
       "symbol": "PNK",
@@ -197,7 +197,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d/logo.png"
     },
     {
-      "address": "0x8bf582D343dA7EAd6396D531fCeE339e1c961759",
+      "address": "0xe278CAcf19c584220d4b803D0c12bb46B04e220F",
       "chainId": 1300,
       "name": "PieDAO BTC++",
       "symbol": "BTC++",
@@ -205,7 +205,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd.png"
     },
     {
-      "address": "0x1014cE585E0291ada3dc747E5B83b789EA7e5661",
+      "address": "0x22332464E0310463D3F64a09E685273965588Ff5",
       "chainId": 1300,
       "name": "PieDAO USD++ Pool",
       "symbol": "USD++",
@@ -213,7 +213,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e.png"
     },
     {
-      "address": "0x5A6d0e8927e2f93Ee8c3B32cAAd01c1F3B3a33d7",
+      "address": "0x5C4A584c2B80589897d151942BD92038AA59ad6D",
       "chainId": 1300,
       "name": "PieDAO DEFI Small Cap",
       "symbol": "DEFI+S",
@@ -221,7 +221,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xad6a626ae2b43dcb1b39430ce496d2fa0365ba9c.png"
     },
     {
-      "address": "0xfFB8A540A331b81bd6aE1b4F5F70055EAF3DB942",
+      "address": "0x760653E26108fD7A336a3A449b79478eC41516AA",
       "chainId": 1300,
       "name": "PieDAO DEFI Large Cap",
       "symbol": "DEFI+L",
@@ -229,7 +229,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x78f225869c08d478c34e5f645d07a87d3fe8eb78.png"
     },
     {
-      "address": "0x43D1764c111e148393025F40209aB8227C9408DC",
+      "address": "0x9E0eEA78ce5eb4c5f5A5e0244DBb22799Ab746bF",
       "chainId": 1300,
       "name": "Synthetix Network Token",
       "symbol": "SNX",
@@ -237,7 +237,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
     },
     {
-      "address": "0x8D6569bFC9FE647A2f53CC2bCd6c068e2Be3582b",
+      "address": "0x70005d8290B1628000C6943cDcd1B1fc6dd51447",
       "chainId": 1300,
       "name": "Synth sUSD",
       "symbol": "sUSD",
@@ -245,7 +245,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x57ab1ec28d129707052df4df418d58a2d46d5f51.png"
     },
     {
-      "address": "0xB618Bd342C98D0176De1CD66d19d470eb3daeb52",
+      "address": "0xFaBc74eDc739452b6bc612d1B621a377591626BB",
       "chainId": 1300,
       "name": "Synth sBTC",
       "symbol": "sBTC",
@@ -253,7 +253,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6.png"
     },
     {
-      "address": "0x1AB0Ad4a69336d0c6E510b69c9A354728665e597",
+      "address": "0x225d548B26232B4EC947f04D919EDf5BE510E453",
       "chainId": 1300,
       "name": "Republic Token",
       "symbol": "REN",
@@ -261,7 +261,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png"
     },
     {
-      "address": "0x7d3620f6994E97cceD23e6b49c89a9027231c44F",
+      "address": "0x1B8f7eF36088e334Bd4b4642DA3a2beA54c28AB7",
       "chainId": 1300,
       "name": "Basic Attention Token",
       "symbol": "BAT",
@@ -269,7 +269,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png"
     },
     {
-      "address": "0x22278490859509bb013717A128BCEB06F1eA33C2",
+      "address": "0x8Fa2780D1106DCe4067D0138f2856D9eEE307BcA",
       "chainId": 1300,
       "name": "0x Protocol Token",
       "symbol": "ZRX",
@@ -277,7 +277,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
     },
     {
-      "address": "0xF0095B7571F371fB84af1B2Df7acb4c45C1417Db",
+      "address": "0x12C627B8853812261C53Cf07f2b2B737828f3A84",
       "chainId": 1300,
       "name": "The Tokenized Bitcoin",
       "symbol": "imBTC",
@@ -285,7 +285,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3212b29E33587A00FB1C83346f5dBFA69A458923/logo.png"
     },
     {
-      "address": "0x25409B901F6D9828Dc69d3B84bC3e51FbcBf3B47",
+      "address": "0xAa4C95f65879ee5bFC150FDB87e2ED2b2324d4B5",
       "chainId": 1300,
       "name": "pTokens BTC",
       "symbol": "pBTC",
@@ -293,7 +293,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5228a22e72ccC52d415EcFd199F99D0665E7733b/logo.png"
     },
     {
-      "address": "0x1d28b5318bA1d1eD95f25c4B3788D9A81277d3B9",
+      "address": "0x699337011b2966Eac4766622feadFBE98849164E",
       "chainId": 1300,
       "name": "AirSwap Token",
       "symbol": "AST",
@@ -301,7 +301,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27054b13b1B798B345b591a4d22e6562d47eA75a/logo.png"
     },
     {
-      "address": "0x131ffe9c94557683E136795Ef573259CD4453d99",
+      "address": "0x75C8e0a7b109e59C1bE6b3206458895b5C25Ceed",
       "chainId": 1300,
       "name": "LoopringCoin V2",
       "symbol": "LRC",
@@ -309,7 +309,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png"
     },
     {
-      "address": "0x05138e08ec5632bD9Ba93d25Cd9ab9Ac676c3aa2",
+      "address": "0x00266509a39B8Af110e1470D23dEa6e482f7dD5B",
       "chainId": 1300,
       "name": "Kyber Network Crystal",
       "symbol": "KNC",
@@ -317,7 +317,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png"
     },
     {
-      "address": "0x33efcc820060faEad149A87D4eF1A4C69f0ACF7D",
+      "address": "0x60dE638422e12993c088f1b1551D76680df4EfcB",
       "chainId": 1300,
       "name": "Ocean Token",
       "symbol": "OCEAN",
@@ -325,7 +325,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x967da4048cD07aB37855c090aAF366e4ce1b9F48/logo.png"
     },
     {
-      "address": "0xd1A4Dd5D5c9212c375cED92636689af0183946dF",
+      "address": "0x0262FA4A4Dc821003537DD4e28393A5518099B77",
       "chainId": 1300,
       "name": "Meta",
       "symbol": "MTA",
@@ -333,7 +333,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2/logo.png"
     },
     {
-      "address": "0x5435734d62382EA643B6444C85ab3F8c29301e98",
+      "address": "0x7F70654bB84b979A06fFb243a1d4ff9b36d3E722",
       "chainId": 1300,
       "name": "Curve DAO Token",
       "symbol": "CRV",
@@ -341,7 +341,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
     },
     {
-      "address": "0xF7f83E4c57b171D595718E947a994f38bF8ca46D",
+      "address": "0x4e1f8D69458B38B7878D320271e44115C84e9eE6",
       "chainId": 1300,
       "name": "Livepeer Token",
       "symbol": "LPT",
@@ -349,7 +349,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x58b6A8A3302369DAEc383334672404Ee733aB239/logo.png"
     },
     {
-      "address": "0x1F402cdE96614c1d21ED4168fC6714414bEBd3c0",
+      "address": "0xE16Ffeba638726205251d2c3A2fd08363AB2eEed",
       "chainId": 1300,
       "name": "Reputation",
       "symbol": "REPv2",
@@ -357,7 +357,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x221657776846890989a759BA2973e427DfF5C9bB/logo.png"
     },
     {
-      "address": "0xFeeC150C2DE24a89De9F0cb459D80107d4f38629",
+      "address": "0xB37cE7094B6EfE70061E5060058900760033BF87",
       "chainId": 1300,
       "name": "tBTC",
       "symbol": "TBTC",
@@ -365,7 +365,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa/logo.png"
     },
     {
-      "address": "0xBF24e7066ed2841091056794227EF6328C5D5A29",
+      "address": "0x97dC4D945C59515ae5123839247d4736aEdC99bF",
       "chainId": 1300,
       "name": "Gemini dollar",
       "symbol": "GUSD",
@@ -373,7 +373,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd/logo.png"
     },
     {
-      "address": "0x0302e1Ea950112c5b3d860D818B5664c0b48b1E9",
+      "address": "0x0B7351Db6d3A080BE1b0bf19D2fF59FD4399A654",
       "chainId": 1300,
       "name": "Ampleforth",
       "symbol": "AMPL",
@@ -381,7 +381,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD46bA6D942050d489DBd938a2C909A5d5039A161/logo.png"
     },
     {
-      "address": "0xA5d7B5537071924c4897b395c8398597C7C06626",
+      "address": "0x21AC785aF9d0670A229Fe005EbE8eF850BE90a80",
       "chainId": 1300,
       "name": "Rally",
       "symbol": "RLY",
@@ -389,7 +389,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b.png"
     },
     {
-      "address": "0x00091FEE9eEc9a495613889A36c42f8088575Ce9",
+      "address": "0xFfE4d4d0bbBCB0414E03bB3bf9204776868dBB48",
       "chainId": 1300,
       "name": "Aragon Network Token",
       "symbol": "ANT",
@@ -397,7 +397,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa117000000f279D81A1D3cc75430fAA017FA5A2e/logo.png"
     },
     {
-      "address": "0x2F8488E0E28AD880Ba21D40bBcAEC4B66Fe85def",
+      "address": "0x72F03D37c041d4F85245fCce8E625F535483886b",
       "chainId": 1300,
       "name": "Nsure Network Token",
       "symbol": "Nsure",
@@ -405,7 +405,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x20945ca1df56d237fd40036d47e866c7dccd2114.png"
     },
     {
-      "address": "0x490C91C9c026EC007255e995570f53D825a6E9da",
+      "address": "0x0840b3185CAA1afc011Fa4c570cDe572b5944C13",
       "chainId": 1300,
       "name": "Gnosis Token",
       "symbol": "GNO",
@@ -413,7 +413,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
     },
     {
-      "address": "0xE38C96A5902d52b7Bbd084f514b4E1d6F2E7ED30",
+      "address": "0xD7f4F8a9BDFebb1f1446628601708cD1f7248bbD",
       "chainId": 1300,
       "name": "Ethfinex Nectar Token",
       "symbol": "NEC",
@@ -421,7 +421,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e/logo.png"
     },
     {
-      "address": "0xE066dE1eDEf85448A2C777561eFC55Cfa71efCfA",
+      "address": "0x4f96B8A13aA3Efd572980f429480069129832688",
       "chainId": 1300,
       "name": "PieDAO DEFI++",
       "symbol": "DEFI++",
@@ -429,7 +429,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x8d1ce361eb68e9e05573443c407d4a3bed23b033.png"
     },
     {
-      "address": "0x4D6441bE2b1CD382339F46cC81e68590f7072cbB",
+      "address": "0x741EcD5c1Aed7b302d1E442B79339966EbEf1EA2",
       "chainId": 1300,
       "name": "Furucombo",
       "symbol": "COMBO",
@@ -437,7 +437,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xffffffff2ba8f66d4e51811c5190992176930278.png"
     },
     {
-      "address": "0x118F2ee4DcdAF248c64C5F90bD02ec401e680345",
+      "address": "0x31084Cd09DeaefAB94a7De56fC121eb494d0485F",
       "chainId": 1300,
       "name": "Balancer Aave Boosted StablePool",
       "symbol": "bb-a-USD",
@@ -445,7 +445,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xa13a9247ea42d743238089903570127dda72fe44.png"
     },
     {
-      "address": "0xE547cEA951AeCB35117CebE9c562ad7ddDEfe704",
+      "address": "0xc11aA0A8Db6Dc679adCCF097e0b065cf18B44668",
       "chainId": 1300,
       "name": "Balancer Aave Boosted Pool (USDT)",
       "symbol": "bb-a-USDT",
@@ -453,7 +453,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x2f4eb100552ef93840d5adc30560e5513dfffacb.png"
     },
     {
-      "address": "0x05D849fEB902126fee155Faf47efd944F1779224",
+      "address": "0x3d577f53A1a5AEbe3553F428298385b3cC45B3d2",
       "chainId": 1300,
       "name": "Balancer Aave Boosted Pool (USDC)",
       "symbol": "bb-a-USDC",
@@ -461,7 +461,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x82698aecc9e28e9bb27608bd52cf57f704bd1b83.png"
     },
     {
-      "address": "0xEbeea45b588ba028266a609741685cB45b4401c1",
+      "address": "0x83d8e8b3AB98D5529Ce374A9178cfB6a649da6c7",
       "chainId": 1300,
       "name": "Balancer Aave Boosted Pool (DAI)",
       "symbol": "bb-a-DAI",
@@ -469,7 +469,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xae37d54ae477268b9997d4161b96b8200755935c.png"
     },
     {
-      "address": "0x3275aC5D91b1760Cba6A4dA14049bA7DBDdad7e7",
+      "address": "0x215728D7647BAD5D3883fA674Ec75750802B6093",
       "chainId": 1300,
       "name": "Wrapped aDAI",
       "symbol": "aDAI",
@@ -477,7 +477,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x02d60b84491589974263d922d9cc7a3152618ef6.png"
     },
     {
-      "address": "0x0FEd5Ee35C20230e64D73E06a250237B845CA1f0",
+      "address": "0x222B99bd13b4801A19e97db98279942911A24562",
       "chainId": 1300,
       "name": "Wrapped aUSDC",
       "symbol": "aUSDC",
@@ -485,7 +485,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xd093fa4fb80d09bb30817fdcd442d4d02ed3e5de.png"
     },
     {
-      "address": "0x16F7f1aDc0734E450Cd12EDE0Ba199f0409902b0",
+      "address": "0x8c23303D9964563531C9a566cc6bddB8baB719D8",
       "chainId": 1300,
       "name": "Wrapped aUSDT",
       "symbol": "aUSDT",
