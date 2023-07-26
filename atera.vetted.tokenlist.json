@@ -465,7 +465,7 @@
       "chainId": 1300,
       "name": "USD Coin",
       "symbol": "USDC",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
     },
     {
