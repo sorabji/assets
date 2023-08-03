@@ -29,6 +29,14 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/refactor-for-multichain/assets/0xb96b904ba83ddeece47caada8b40ee6936d92091.png"
     },
     {
+      "chainId": 1300,
+      "address": "0xa1302aa2921b81ea33f45c2149f33a1174432ddd",
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
+    },
+    {
       "address": "0x937dca500fa9af6266f9a460ece81839adfa5929",
       "chainId": 1300,
       "name": "Wrapped BTC",
