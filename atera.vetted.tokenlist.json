@@ -21,7 +21,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/refactor-for-multichain/assets/0xa68ec98d7ca870cf1dd0b00ebbb7c4bf60a8e74d.png"
     },
     {
-      "address": "0x2442b8a56ef1fef744a3cc10da81c03ac6f8f5af",
+      "address": "0x1c7e3385ed1eef2264a406b88911edd1076deff7",
       "chainId": 1300,
       "name": "BAL token 1",
       "symbol": "BAL",
@@ -429,7 +429,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x33349b282065b0284d756f0577fb39c158f935e6.png"
     },
     {
-      "address": "0xdcf53baaab2bf6c83a4cc7c57e7a8e74f4e965cc",
+      "address": "0xee8f7e01e6d992aebb01d146cc43d69e78bcf4a5",
       "chainId": 1300,
       "name": "Balancer USD Stable Pool",
       "symbol": "staBAL3",
@@ -437,7 +437,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x06df3b2bbb68adc8b0e302443692037ed9f91b42.png"
     },
     {
-      "address": "0xb54615f1ddfaf83465c21ad61d6b73d2e5bd0eba",
+      "address": "0xb72ee0b220e28242c87028b47b288e5319fffd80",
       "chainId": 1300,
       "name": "Balancer Aave Boosted StablePool",
       "symbol": "bb-a-USD",
@@ -445,7 +445,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xa13a9247ea42d743238089903570127dda72fe44.png"
     },
     {
-      "address": "0x5344c3b9914c1ebe7cbba9272d7b7e1987d80700",
+      "address": "0xffffffff73c778920cb69d2fa0c6049fe98570bb",
       "chainId": 1300,
       "name": "Tether",
       "symbol": "USDT",
@@ -453,7 +453,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x454ed96955d04d2f5cdd05e0fd1c77975bfe5307.png"
     },
     {
-      "address": "0xb85f2f6101d969802e444169f3e33158fb5f50c0",
+      "address": "0x66e6350b660e9f6b2d5816601de85f51382c4c4a",
       "chainId": 1300,
       "name": "Balancer Aave Boosted Pool (USDT)",
       "symbol": "bb-a-USDT",
@@ -461,7 +461,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x2f4eb100552ef93840d5adc30560e5513dfffacb.png"
     },
     {
-      "address": "0xe40af17d9e6bd171784465de36cfd1097802b53e",
+      "address": "0xb5af5d8b311f52ad113df620533d7580e347a6cc",
       "chainId": 1300,
       "name": "Balancer Aave Boosted Pool (USDC)",
       "symbol": "bb-a-USDC",
@@ -469,7 +469,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x82698aecc9e28e9bb27608bd52cf57f704bd1b83.png"
     },
     {
-      "address": "0xc0ab4d9b9f1d6b8d17d59d0fc2e935a48bc2a23d",
+      "address": "0xffffffff659307592a3174e3cc4315943fffb14b",
       "chainId": 1300,
       "name": "USD Coin",
       "symbol": "USDC",
@@ -477,7 +477,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
     },
     {
-      "address": "0xe72650c29b3405bc7898dbc0923d9e85cf0c3689",
+      "address": "0xc01ce45e70405d7cdc7cc75ed8092909283680e8",
       "chainId": 1300,
       "name": "Balancer Aave Boosted Pool (DAI)",
       "symbol": "bb-a-DAI",
@@ -485,7 +485,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xae37d54ae477268b9997d4161b96b8200755935c.png"
     },
     {
-      "address": "0xb21f902ea998750c38abb3fd49997794b31b0672",
+      "address": "0xffffffffe094d8fec365f321aaa738c73f246119",
       "chainId": 1300,
       "name": "Dai",
       "symbol": "DAI",
@@ -493,7 +493,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x6b175474e89094c44da98b954eedeac495271d0f.png"
     },
     {
-      "address": "0x72b3ff2824a322316be3be23540b6aa7384a8e41",
+      "address": "0x383c5a23405f3fe53dd6367ff3327e134e1be525",
       "chainId": 1300,
       "name": "Wrapped aDAI",
       "symbol": "aDAI",
@@ -501,7 +501,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0x02d60b84491589974263d922d9cc7a3152618ef6.png"
     },
     {
-      "address": "0x084c8adaa49f2b27b552f4357dc2c4c9d9de8812",
+      "address": "0xef6bd34bbee0093aa6d8067e41f48b27fe7de585",
       "chainId": 1300,
       "name": "Wrapped aUSDC",
       "symbol": "aUSDC",
@@ -509,7 +509,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xd093fa4fb80d09bb30817fdcd442d4d02ed3e5de.png"
     },
     {
-      "address": "0xa53efa65d9736f6d08580d6e8c2f765541ebecc9",
+      "address": "0x71de7fc81fb31783be68efcf08ba31935b89bcd8",
       "chainId": 1300,
       "name": "Wrapped aUSDT",
       "symbol": "aUSDT",
