@@ -37,7 +37,7 @@
       "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
     },
     {
-      "address": "0x937dca500fa9af6266f9a460ece81839adfa5929",
+      "address": "0x73b14e2a47615dc3d63c754225f3ad95d5ac8998",
       "chainId": 1300,
       "name": "Wrapped BTC",
       "symbol": "WBTC",
@@ -99,14 +99,6 @@
       "symbol": "WCRV",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
-    },
-    {
-      "address": "0xad2b38359245d8d6710b6971581b5c73a7657c6c",
-      "chainId": 1300,
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
     },
     {
       "address": "0x3a1e2a1f9f25a416bdc3439990d114d661dabc1c",
@@ -259,6 +251,14 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "address": "0x0000000000000000000000000000000000000802",
+      "chainId": 1300,
+      "name": "Wrapped Atera",
+      "symbol": "WATE",
+      "decimals": 18,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     }
   ]
 }
