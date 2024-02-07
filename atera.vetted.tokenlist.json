@@ -18,7 +18,7 @@
       "name": "GLUE Token",
       "symbol": "GLUE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/refactor-for-multichain/assets/0xa68ec98d7ca870cf1dd0b00ebbb7c4bf60a8e74d.png"
+      "logoURI": "https://raw.githubusercontent.com/sorabji/assets/master/glue.png"
     },
     {
       "address": "0x1c7e3385ed1eef2264a406b88911edd1076deff7",
