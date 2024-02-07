@@ -15,8 +15,8 @@
     {
       "address": "0x0000000000000000000000000000000000000802",
       "chainId": 1300,
-      "name": "Wrapped Atera Token",
-      "symbol": "WATE",
+      "name": "GLUE Token",
+      "symbol": "GLUE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/refactor-for-multichain/assets/0xa68ec98d7ca870cf1dd0b00ebbb7c4bf60a8e74d.png"
     },
